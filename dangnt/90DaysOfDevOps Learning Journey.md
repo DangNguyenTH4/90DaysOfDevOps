@@ -1,0 +1,105 @@
+****
+**# 90DaysOfDevOps Learning Journey
+
+- [x]  **Phase 1: Foundations (Days 1-13)**
+    - [x]  Day 1: Introduction & DevOps Definition
+    - [x]  Day 2: Responsibilities of a DevOps Engineer
+    - [x]  Day 3: DevOps Lifecycle
+    - [x]  Day 4: DevOps Tools
+    - [x]  Day 5: Linux Basics
+- [x]  **Phase 2: Go Programming (Days 7-13)**
+    - [x]  Day 7: Learning a Programming Language (Go)
+    - [x]  Day 8: Go Setup & Hello World
+    - [x]  Day 9: Hello World Breakdown
+    - [x]  Day 10: Go Workspace & Compiling
+    - [x]  Day 11: Go Variables & Constants
+    - [x]  Day 12: Go User Input & Pointers
+    - [x]  Day 13: Go Tweet App & Cross-Compilation
+- [ ]  **Phase 3: Linux Fundamentals (Days 14-20)**
+    - [x]  Day 14: Linux Setup (Vagrant)
+    - [x]  Day 15: Linux Commands
+    - [x]  Day 16: File System & Permissions
+    - [x]  Day 17: Text Editors (Nano/Vim)
+    - [x]  Day 18: SSH & Web Server
+    - [x]  Day 19: Bash Scripting
+    - [x]  Day 20: Linux Networking
+- [x]  **Phase 3: Linux & Networking Deep Dive (Days 21-27)**
+    - [x]  Day 21: Networking Basics (Hosts, IPs, Switches, Routers)
+    - [x]  Day 22: OSI Model (7 Layers)
+    - [x]  Day 23: Network Protocols (DNS, DHCP, ARP)
+    - [x]  Day 24: Network Automation
+    - [x]  Day 25: Python for Network Automation
+    - [x]  Day 26: Building Network Lab (EVE-NG)
+    - [x]  Day 27: Networking Tools
+- [x]  **Phase 4: Cloud Computing (Days 28-34)**
+    - [x]  Day 28: Cloud Computing Basics
+    - [x]  Day 29: Microsoft Azure Fundamentals
+    - [x]  Day 30: Microsoft Azure Security Models
+    - [x] Day 31: Microsoft Azure Compute Models
+    - [x]  Day 32: Microsoft Azure Storage & Database Models
+    - [x]  Day 33: Microsoft Azure Networking Models
+    - [x]  Day 34: Azure Scenarios & Walkthrough
+- [x]  **Phase 5: Git & Version Control (Days 35-41)**
+    - [x]  Day 35: Git Introduction
+    - [x]  Day 36: Installing & Configuring Git
+    - [x]  Day 37: Git Basics
+    - [x]  Day 38: Staging & Changing
+    - [x]  Day 39: Viewing, unstaging, discarding & restoring
+    - [x]  Day 40: Social Network for code (GitHub)
+    - [x]  Day 41: The Open Source Workflow
+- [x]  **Phase 6: Containers (Days 42-48)**
+    - [x]  Day 42: Containers Introduction
+    - [x]  Day 43: Docker Introduction
+    - [x]  Day 44: Docker Hands-On
+    - [x]  Day 45: Docker Images
+    - [x]  Day 46: Docker Compose
+    - [x]  Day 47: Docker Networking
+    - [x]  Day 48: Docker Security
+- [x]  **Phase 7: Kubernetes (Days 49-56)**
+    - [x]  Day 49: Kubernetes Introduction
+    - [x]  Day 50: Kubernetes Architecture
+    - [x]  Day 51: Kubectl & YAML
+    - [x]  Day 52: Pods & Deployments
+    - [x]  Day 53: Rancher Overview
+    - [x]  Day 54: Configuration & Storage
+    - [x]  Day 55: State and Ingress
+- [x]  **Phase 8: Infrastructure as Code (Days 56-62)**
+    - [x]  Day 56: IaC Introduction
+    - [x]  Day 57: Terraform Basics
+    - [x]  Day 58: Terraform State & Modules
+    - [x]  Day 59: Terraform with AWS/Azure
+    - [x] Day 60: Terraform - Docker, Provisioners & Modules
+    - [x]  Day 61: Terraform - Kubernetes & Multiple Environments
+    - [x] Day 62: Testing with Terraform
+- [x]  **Phase 9: Configuration Management (Days 63-69)**
+    - [x]  Day 63: Configuration Management Introduction
+    - [x]  Day 64: Ansible Basics
+    - [x]  Day 65: Ansible Playbooks
+    - [x]  Day 66: Ansible Roles
+    - [x]  Day 67: Ansible - Using Roles & Deploying a Loadbalancer
+    - [x] Day 68: Ansible - Tags, Variables & Database Config
+    - [x] Day 69: Configuration Management Wrap Up
+- [x]  **Phase 10: CI/CD Pipelines (Days 70-76)**
+    - [x]  Day 70: CI/CD Introduction
+    - [x]  Day 71: Jenkins Introduction
+    - [x]  Day 72: Jenkins Hands-On
+    - [x]  Day 73: Jenkins Pipelines
+    - [x]  Day 74: Jenkinsfile App Pipeline
+    - [x]  Day 75: GitHub Actions
+    - [x]  Day 76: ArgoCD Overview
+- [x]  **Phase 11: Monitoring & Observability (Days 77-83)**
+    - [x]  Day 77: Monitoring Introduction
+    - [x]  Day 78: Monitoring Tools
+    - [x]  Day 79: Log Management
+    - [x]  Day 80: ELK Stack
+    - [x]  Day 81: Fluentd & FluentBit
+    - [x]  Day 82: EFK Stack
+    - [x]  Day 83: Grafana
+- [x]  **Phase 12: Data Management (Days 84-90)**
+    - [x]  Day 84: Data Management Introduction
+    - [x]  Day 85: Data Services (Databases)
+    - [x]  Day 86: Backup all the platforms
+    - [x]  Day 87: Hands-On Backup & Recovery
+    - [x]  Day 88: Application Focused Backup
+    - [x]  Day 89: Disaster Recovery
+    - [x]  Day 90: Data & Application Mobility**
